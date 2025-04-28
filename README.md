@@ -102,3 +102,5 @@ Notes
 For production, use environment variables for configuration and a migration tool like golang-migrate.
 Update connection strings in main.go and store_test.go if not using environment variables.
 
+I like the Go language so I'm gonna become the best Go-lang developer ever.
+
